@@ -12,12 +12,16 @@ const Landing = () => {
           </div>
 
           <div className="footer">
-            <button type="submit" className="htm">
-              Front-End
-            </button>
-            <button type="submit" className="pjc">
-              Compiler
-            </button>
+            <a href="https://zenexia-codepad.netlify.app">
+              <button type="submit" className="htm">
+                Front-End
+              </button>
+            </a>
+            <a href="https://zenexia-compiler.netlify.app">
+              <button type="submit" className="pjc">
+                Compiler
+              </button>
+            </a>
           </div>
         </div>
       </div>
