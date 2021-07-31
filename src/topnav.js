@@ -7,7 +7,9 @@ export default function TopNavigation() {
     <div>
       <div className="mainheader">
         <div className="right">
-          <img className="logo" src={logo} alt="aa" />
+          <a href="https://zenexia-home.netlify.app">
+            <img className="logo" src={logo} alt="aa" />
+          </a>
           <div className="text">
             <h2>Zenexia{"\u00A0"}</h2>
             <h3>Codepad </h3>
@@ -28,3 +30,4 @@ export default function TopNavigation() {
     </div>
   );
 }
+
