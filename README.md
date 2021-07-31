@@ -1,6 +1,6 @@
 # landing-page
 Landing page for my Online Code editor.\
-You can see a live demo for the same(my online code editor) at: https://zenexia-home.netlify.app
+You can see a live demo for the same(Zenexia Online Codepad) at: https://zenexia-home.netlify.app
 
 # Getting Started with Create React App
 
